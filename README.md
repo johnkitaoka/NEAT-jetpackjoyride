@@ -1,5 +1,5 @@
 # NEAT-jetpackjoyride
-Neuro-evolutionary AI learns to play Jetpack Joyride. 'NEAT-JJ.pdf' contains main overview and applications of project presented to developers at Epic Systems.
+Neuro-evolutionary AI learns to play Jetpack Joyride. 'NEAT-JJ.pdf' contains brief overview of project presented to developers at Epic Systems.
 
 ### Prerequisites
 
